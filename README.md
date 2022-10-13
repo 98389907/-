@@ -1,1 +1,2 @@
-#中文簡歷網站
+
+This is only for English Version about my Resume.
